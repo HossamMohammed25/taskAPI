@@ -1,0 +1,17 @@
+.cardhvr{
+    transition: all 0.7s;
+    overflow: hidden;
+}
+.cardhvr:hover{
+    box-shadow: 3px 13px 32px -6px rgba(255,255,255,0.75);
+    transform: scale(1.05);
+
+.btnhvr{
+    transform: translateY(0);
+}
+}
+
+.btnhvr{
+    transform: translateY(180%);
+    transition: transform 0.7s;
+}
